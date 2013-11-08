@@ -8,6 +8,7 @@ Given that I am an admin
    |GB       |  806|   854|      973|    998|
    |US       | 1926|  2441|     1900|   1366|
    |RoW      |10427| 12806|    13691|  16563|
+   |FR      |10428| 12805|    13690|  16560|
 When I sign in
 Then I can view the dashboard
 And I see you

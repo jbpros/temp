@@ -1,4 +1,4 @@
-Feature: Foo :)jk hsdjkf jkh
+Feature: Foo :)jk hsdjkf
 
 
 Given that I am an admin
@@ -48,5 +48,4 @@ oo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$
                                 """"$$$$$$$$$$$
                                     $$$$$$$$$$$$
                                      $$$$$$$$$$"
-                                      "$$$""
- OK
+                                      "

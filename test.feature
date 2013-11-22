@@ -1,5 +1,5 @@
 Feature: Foo
-  Bar baz!
+  Bar baz! Etc.
 
 	Scenario: FooIzeb bonjour :)
   Things happen
@@ -18,3 +18,4 @@ Feature: Foo
     And I get this:
       | var | val |
       | abc | 123 |
+      

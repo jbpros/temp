@@ -1,7 +1,7 @@
 Feature: Foo
   Bar baz! Etc.
 
-	Scenario: FooIzeb bonjour :)
+	Scenario: FooIzeb bonjour :) :) :)
   Things happen
 
     Given that I am an admin

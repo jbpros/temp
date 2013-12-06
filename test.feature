@@ -1,5 +1,7 @@
-Feature: Foo
-  Bar baz! Etc.
+Feature: I can edit the title at the same time :-)	
+  As a tester
+  I would like to change the file
+  So that i learn to use cucumber.pro.
 
 	Scenario: FooIzeb bonjour :)
   Things happen
@@ -12,6 +14,7 @@ Feature: Foo
       |US       | 1926|  2441|     1900|   1366|
       |RoW      |10427| 12806|    13691|  16563|
       |FR       |10428| 12805|    13690|  16560|
+      
     When I sign in
     Then I can view the dashboard
     And I see you

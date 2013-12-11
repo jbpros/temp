@@ -1,4 +1,4 @@
-Feature: Cucumber Pro
+Feature: Cucumber Pro -- I can also write
   As a tester
   I would like to change the file
   So that i learn to use cucumber.pro.
@@ -14,3 +14,9 @@ Feature: Cucumber Pro
       | var | val |
       | abc | 123 |
       
+	Scenario: Bar
+  Things don't happen
+  
+  	Given that I am not an admin
+    When I sign in
+    Then I can't see anything

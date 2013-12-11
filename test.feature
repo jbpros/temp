@@ -20,3 +20,7 @@ Feature: Cucumber Pro -- I can also write
   	Given that I am not an admin
     When I sign in
     Then I can't see anything
+    
+  Scenario: Qux
+  	Given nothing
+    Then nothing

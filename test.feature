@@ -14,14 +14,16 @@ Feature: Cucumber Pro -- I can also write
     And I get this:
       | var | val |
       | abc | 123 |
-      
+
 	Scenario: Bar
   Things don't happen
-  
+
   	Given that I am not an admin
     When I sign in
     Then I can't see anything
-    
+
   Scenario: Qux
   	Given nothing
     Then nothing
+
+  Scenario: Fooz

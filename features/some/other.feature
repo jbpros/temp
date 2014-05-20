@@ -8,3 +8,5 @@ Feature: blah
       | item  | quantity |
       | thing |       12 |
       | stuff |     1123 |
+      
+  Scenario: 2

@@ -16,7 +16,7 @@ Feature: Cucumber Pro -- I can also write
       | abc | 123 |
 
 	Scenario: Bar
-  Things don't happen
+    Things don't happen
 
   	Given that I am not an admin
     When I sign in

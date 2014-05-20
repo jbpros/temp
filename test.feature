@@ -26,3 +26,4 @@ Feature: Cucumber Pro -- I can also write
     Then nothing
 
   Scenario: Fooz!
+    Given blah

@@ -1,4 +1,3 @@
-# Dirty stuff!!!!!!!
 Feature: Cucumber Pro -- I can also write
   As a tester
   I would like to change the file
@@ -26,4 +25,4 @@ Feature: Cucumber Pro -- I can also write
   	Given nothing
     Then nothing
 
-  Scenario: Fooz
+  Scenario: Fooz!

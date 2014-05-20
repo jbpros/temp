@@ -10,3 +10,4 @@ Feature: blah
       | stuff |     1123 |
       
   Scenario: 2
+    Given something

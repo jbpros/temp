@@ -11,3 +11,4 @@ Feature: blah
       
   Scenario: 2
     Given something
+    Then go go

@@ -12,7 +12,7 @@ Feature: Cucumber Pro -- I can also write
     And I see you
     And I get this:
       | var | val |
-      | abc | 123 |
+      | abc | 456 |
 
 	Scenario: Bar
     Things don't happen

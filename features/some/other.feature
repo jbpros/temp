@@ -1,3 +1,4 @@
 Feature: other feature
 
-Given I am admin
+  Scenario: 
+    Given I am admin

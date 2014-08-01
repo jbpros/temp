@@ -1,4 +1,4 @@
-@wip
+@wip @tag
 Feature: New feature
 
   Write a description of your feature here.

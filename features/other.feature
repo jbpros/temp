@@ -1,4 +1,4 @@
-Feature: blah
+Feature: blah!
 
   Scenario: this is just a test
     Given something happened

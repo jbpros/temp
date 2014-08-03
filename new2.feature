@@ -1,5 +1,5 @@
 @wip
-Feature: new 2!!!!!!
+Feature: new 2!!!!!!s
 
   Scenario: this is a scenario
     Given something happened

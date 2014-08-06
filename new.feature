@@ -1,4 +1,4 @@
-@wip
+@wip @edit
 Feature: New feature
 
   Write a description of your feature here.

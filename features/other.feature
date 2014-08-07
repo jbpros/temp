@@ -1,4 +1,4 @@
-Feature: blah!!!!!!
+Feature: better title
 
   Scenario: this is just a test
     Given something happened

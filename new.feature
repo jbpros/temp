@@ -1,5 +1,5 @@
 @wip @edit
-Feature: New feature
+Feature: New featurez
 
   Write a description of your feature here.
 

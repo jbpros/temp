@@ -10,5 +10,5 @@ Feature: even better title
       | stuff |     1123 |
       
   Scenario: 2
-    Given something
-    Then go go
+    Given I am on the page
+    Then I can view the dashboard

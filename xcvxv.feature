@@ -5,3 +5,4 @@ Feature: New feature
 
   Scenario: New scenario
     Given test
+    Given b

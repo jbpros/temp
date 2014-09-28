@@ -2,3 +2,6 @@
 Feature: New featurez
 
   Write a description of your feature here.
+
+  Scenario:
+    Given I signed in

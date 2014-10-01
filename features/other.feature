@@ -12,3 +12,4 @@ Feature: even better title
   Scenario: 2
     Given I am on the page
     Then I can view the dashboard
+    And I can drop things

@@ -14,3 +14,4 @@ Feature: even better title
     Then I can view the dashboard
     And I can drop things
     And I can commit
+    

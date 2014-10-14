@@ -27,3 +27,13 @@ Feature: Cucumber Pro -- I can also write
 
   Scenario: Fooz!
     Given blah
+
+  Scenario Outline:
+    Given <input>
+    Then <result>
+    
+    Examples:
+    
+      | input | result |
+      | a     | yey    |
+      | b     | boo    |

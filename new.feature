@@ -5,4 +5,3 @@ Feature: New feature
 
   Scenario:
     Given I signed in
-    Given I signed in

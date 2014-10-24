@@ -3,7 +3,7 @@ Feature: Cucumber Pro -- I can also write
   I would like to change the file
   So that i learn to use cucumber.pro.
 
-	Scenario: Foo
+	Scenario: Foo2
   Things happen
 
     Given that I am an admin

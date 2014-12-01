@@ -14,5 +14,9 @@ Feature: even better title
     Given I am on the page
     Then I can view the dashboard
     And I can drop things
-    And I can commit
+    And I can commit:
+    """
+    Some long-winded commit
+    message.
+    """
     

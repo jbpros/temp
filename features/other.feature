@@ -20,7 +20,7 @@ Feature: even better title
     message.
     """
     
-  Scenario Outline:
+  Scenario Outline: some scenario outline!
     Given blah
     When <a>
     Then <b>

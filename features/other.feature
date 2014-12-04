@@ -20,3 +20,12 @@ Feature: even better title
     message.
     """
     
+  Scenario Outline:
+    Given blah
+    When <a>
+    Then <b>
+    
+    Examples:
+      | a | b |
+      | 1 | 2 |
+      | 3 | 4 |

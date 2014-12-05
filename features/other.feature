@@ -51,9 +51,9 @@ Feature: even better title
   @another @tag
   Scenario: this is just a test
     This scenario's got some business rules in it:
-    * Don't kill kittens
-    * Have fun
-    * Use the word blah
+    - Don't kill kittens
+    - Have fun
+    - Use the word blah
     Given something happened
     When I do something else
     And blah

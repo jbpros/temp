@@ -1,7 +1,7 @@
 @some @tag
 Feature: even better title
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  Lorem *ipsum* **dolor** sit amet, consectetur adipiscing elit. 
   Donec lectus nibh, pulvinar vitae consequat id, ullamcorper ut odio. 
   Donec eu sem eu massa sagittis venenatis rutrum ut lacus. 
   

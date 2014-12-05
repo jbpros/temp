@@ -11,10 +11,16 @@ Feature: even better title
 
   Other blah
 
+  UL
+  --
+  
   * list item
   * other item
   * even more
 
+  OL
+  --
+  
   1. One
   2. Two
   3. Three
@@ -23,6 +29,9 @@ Feature: even better title
 
       this.should be_code
       this.should also_be_code
+      
+  A paragraph here.
+  Some more text.
 
   ```
   this should be some more code!

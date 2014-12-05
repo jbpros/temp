@@ -26,7 +26,7 @@ Feature: even better title
 
   ```
   this should be some more code!
-  ``
+  ```
 
   ---------
 

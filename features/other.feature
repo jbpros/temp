@@ -1,5 +1,7 @@
+@some @tag
 Feature: even better title
 
+  @another @tag
   Scenario: this is just a test
     Given something happened
     When I do something else

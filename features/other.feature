@@ -1,6 +1,38 @@
 @some @tag
 Feature: even better title
 
+  Some blah
+
+  Title
+  =====
+  
+  Subtitle
+  --------
+
+  Other blah
+
+  * list item
+  * other item
+  * even more
+
+  1. One
+  2. Two
+  3. Three
+
+  > This is not some Ghandi's quote.
+
+      this.should be_code
+      this.should also_be_code
+
+  ```
+  this should be some more code!
+  ``
+
+  ---------
+
+  There is a separator above this line.
+  What about [links](https://cucumber.pro)?
+  
   @another @tag
   Scenario: this is just a test
     Given something happened

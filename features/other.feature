@@ -48,6 +48,9 @@ Feature: even better title
   There is a separator above this line.
   What about [links](https://cucumber.pro)?
   
+  # this is a comment
+  # followed by another one
+  
   @another @tag
   Scenario: this is just a test
     This scenario's got some business rules in it:
@@ -64,7 +67,9 @@ Feature: even better title
       | stuff |     1123 |
       
   Scenario: 2
+    # Comments also live in scenarios
     Given I am on the page
+    # Comments between steps
     Then I can view the dashboard
     And I can drop things
     And I can commit:

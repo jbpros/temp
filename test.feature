@@ -2,6 +2,8 @@ Feature: Cucumber Pro -- I can also write
   As a tester
   I would like to change the file
   So that i learn to use cucumber.pro.
+  
+  Blah
 
 	Scenario: Foo2
   Things happen
